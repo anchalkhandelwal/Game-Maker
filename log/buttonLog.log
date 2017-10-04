@@ -1,0 +1,14 @@
+2017-10-03 18:22:43,552  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:22:51,614  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:22:58,518  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:01,036  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:04,381  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:07,890  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:08,321  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:08,622  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:08,892  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 36 - Draw Clicked
+2017-10-03 18:23:18,098  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-03 18:23:19,303  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 36 - GREEN Background Selected: 
+2017-10-03 18:23:20,034  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-03 18:23:21,635  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-03 18:23:48,808  INFO [AWT-EventQueue-0] - buttonLogger.actionPerformed 41 - Play Clicked

@@ -1,0 +1,7 @@
+2017-10-03 18:22:49,125  INFO [AWT-EventQueue-0] - eventLogger.actionPerformed 45 - Collision event selected
+2017-10-03 18:22:49,906  INFO [AWT-EventQueue-0] - eventLogger.actionPerformed 40 - Sides event selected
+2017-10-03 18:22:57,239  INFO [AWT-EventQueue-0] - eventLogger.actionPerformed 40 - Sides event selected
+2017-10-03 18:23:18,098  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
+2017-10-03 18:23:19,303  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 36 - GREEN Background Selected: 
+2017-10-03 18:23:20,034  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 41 - YELLOW Background Selected: 
+2017-10-03 18:23:21,635  INFO [AWT-EventQueue-0] - backgroundRbLogger.actionPerformed 31 - BLUE Background Selected: 
